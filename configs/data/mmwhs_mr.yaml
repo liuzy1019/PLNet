@@ -1,0 +1,6 @@
+data_mod: mr
+data_dir: .
+train_list: configs/data/manifests/mmwhs_mr.json
+val_list: configs/data/manifests/mmwhs_mr.json
+input_size: 80,160,160
+num_classes: 8

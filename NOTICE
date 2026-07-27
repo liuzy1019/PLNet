@@ -1,0 +1,20 @@
+PLNet
+Copyright 2026 PLNet Authors
+
+The Apache License 2.0 applies to the original contributions for which the
+PLNet authors hold copyright and are authorized to grant a license.
+
+This repository contains or adapts ideas and implementation elements from:
+
+- P2T: Pyramid Pooling Transformer for Scene Understanding
+  https://github.com/yuhuan-wu/P2T
+  The upstream project states that its code is available under
+  CC BY-NC-SA 4.0 for non-commercial use.
+
+- ConResNet: Inter-slice Context Residual Learning for 3D Medical Image
+  Segmentation
+  https://github.com/jianpengz/ConResNet
+  The upstream project is licensed under GPL-3.0.
+
+Third-party material remains subject to its respective upstream license.
+Nothing in the PLNet Apache License grant overrides or replaces those terms.

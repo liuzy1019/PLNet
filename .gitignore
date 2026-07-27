@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Environments and IDEs
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# Training artifacts
+*.pth
+*.pt
+*.ckpt
+*.pytorch
+/result/model*/
+/result/preds/
+/runs/
+/logs/
+/outputs/
+
+# Build and coverage artifacts
+/build/
+/dist/
+*.egg-info/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db

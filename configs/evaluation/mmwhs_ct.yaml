@@ -1,0 +1,9 @@
+data_dir: .
+data_list: configs/data/manifests/mmwhs_ct.json
+split: test
+input_size: 80,160,160
+num_classes: 8
+weight_std: true
+overlap: 0.7
+threshold: 0.5
+output_dir: outputs/predictions/ct

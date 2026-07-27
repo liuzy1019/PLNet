@@ -1,0 +1,6 @@
+data_mod: ct
+data_dir: .
+train_list: configs/data/manifests/mmwhs_ct.json
+val_list: configs/data/manifests/mmwhs_ct.json
+input_size: 80,160,160
+num_classes: 8

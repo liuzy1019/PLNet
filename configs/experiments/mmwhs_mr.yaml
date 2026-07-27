@@ -1,0 +1,4 @@
+_base_:
+  - ../model/plnet.yaml
+  - ../training/default.yaml
+  - ../data/mmwhs_mr.yaml
